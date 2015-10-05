@@ -1,0 +1,15 @@
+
+.scatter {
+  font: 10px sans-serif;
+}
+
+.scatter .axis path,
+.scatter .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.scatter .dot {
+  stroke: #000;
+}

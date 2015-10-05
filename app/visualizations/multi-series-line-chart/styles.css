@@ -1,0 +1,20 @@
+.mslc {
+  font: 10px sans-serif;
+}
+
+.mslc .axis path,
+.mslc .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.mslc .x.axis path {
+  display: none;
+}
+
+.mslc .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Days-Hours Heat Map",
+  "description": "This example is inspired by Calendar View and Trulia Trends. You can toggle the displaying type to see either the level of values or change trends in each day. Thank air-scientific.com for the pm2.5 data.",
+  "author": {
+    "name": "Ouyang Yadong"
+    "github": "https://github.com/oyyd",
+    "url": "http://blog.oyyd.net",
+    "email": "oyydoibh@gmail.com"
+  }
+}

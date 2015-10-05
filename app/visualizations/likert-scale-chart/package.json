@@ -1,0 +1,11 @@
+{
+  "name": "Hierarchical Bar Chart",
+  "description": "This is a diverging stacked bar chart to plot a 5 point Likert scale. There a lots of ways to plot a Likert scale but according to Robbins & Heiberger, a diverging stacked bar chart is the best and I agree.",
+  "author": {
+    "name": "wpoely86",
+    "email": "wpoely86@gmail.com",
+    "website": "https://wpoely86.github.io/",
+    "github": "https://github.com/wpoely86"
+  },
+  "sourceUrl": "http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463"
+}

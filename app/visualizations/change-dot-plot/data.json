@@ -1,0 +1,79 @@
+{"Sheet1":
+[
+  {
+    "Name": "Sub-Saharan Africa",
+    "Value1": 48,
+    "Value2": 68
+  },
+  {
+    "Name": "Northern Africa",
+    "Value1": 87,
+    "Value2": 93
+  },
+  {
+    "Name": "Eastern Asia",
+    "Value1": 68,
+    "Value2": 96
+  },
+  {
+    "Name": "Eastern Asia without China",
+    "Value1": 96,
+    "Value2": 98
+  },
+  {
+    "Name": "Southern Asia",
+    "Value1": 73,
+    "Value2": 93
+  },
+  {
+    "Name": "Southern Asia without India",
+    "Value1": 79,
+    "Value2": 89
+  },
+  {
+    "Name": "South Eastern Asia",
+    "Value1": 72,
+    "Value2": 90
+  },
+  {
+    "Name": "Western Asia",
+    "Value1": 85,
+    "Value2": 95
+  },
+  {
+    "Name": "Oceania",
+    "Value1": 50,
+    "Value2": 56
+  },
+  {
+    "Name": "Latin American and the Caribbean",
+    "Value1": 85,
+    "Value2": 95
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "Value1": 87,
+    "Value2": 89
+  },
+  {
+    "Name": "Developed Regions",
+    "Value1": 98,
+    "Value2": 99
+  },
+  {
+    "Name": "Developing Regions",
+    "Value1": 70,
+    "Value2": 89
+  },
+  {
+    "Name": "Least Developed Countries",
+    "Value1": 51,
+    "Value2": 69
+  },
+  {
+    "Name": "The World",
+    "Value1": 76,
+    "Value2": 91
+  }
+]
+}

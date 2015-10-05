@@ -1,0 +1,208 @@
+{"Sheet1":
+[
+  {
+    "State": "Alabama",
+    "Value": 0.18
+  },
+  {
+    "State": "Alaska",
+    "Value": 0.265
+  },
+  {
+    "State": "Arizona",
+    "Value": 0.396
+  },
+  {
+    "State": "Arkansas",
+    "Value": 0.106
+  },
+  {
+    "State": "California",
+    "Value": 0.848
+  },
+  {
+    "State": "Colorado",
+    "Value": 0.511
+  },
+  {
+    "State": "Connecticut",
+    "Value": 0.795
+  },
+  {
+    "State": "Delaware",
+    "Value": 0.837
+  },
+  {
+    "State": "Florida",
+    "Value": 0.476
+  },
+  {
+    "State": "Georgia",
+    "Value": 0.439
+  },
+  {
+    "State": "Hawaii",
+    "Value": 0.975
+  },
+  {
+    "State": "Idaho",
+    "Value": 0.051
+  },
+  {
+    "State": "Illinois",
+    "Value": 0.816
+  },
+  {
+    "State": "Indiana",
+    "Value": 0.378
+  },
+  {
+    "State": "Iowa",
+    "Value": 0.583
+  },
+  {
+    "State": "Kansas",
+    "Value": 0.143
+  },
+  {
+    "State": "Kentucky",
+    "Value": 0.118
+  },
+  {
+    "State": "Louisiana",
+    "Value": 0.242
+  },
+  {
+    "State": "Maine",
+    "Value": 0.781
+  },
+  {
+    "State": "Maryland",
+    "Value": 0.871
+  },
+  {
+    "State": "Massachusetts",
+    "Value": 0.867
+  },
+  {
+    "State": "Michigan",
+    "Value": 0.759
+  },
+  {
+    "State": "Minnesota",
+    "Value": 0.679
+  },
+  {
+    "State": "Mississippi",
+    "Value": 0.37
+  },
+  {
+    "State": "Missouri",
+    "Value": 0.423
+  },
+  {
+    "State": "Montana",
+    "Value": 0.36
+  },
+  {
+    "State": "Nebraska",
+    "Value": 0.167
+  },
+  {
+    "State": "Nevada",
+    "Value": 0.609
+  },
+  {
+    "State": "New Hampshire",
+    "Value": 0.591
+  },
+  {
+    "State": "New Jersey",
+    "Value": 0.81
+  },
+  {
+    "State": "New Mexico",
+    "Value": 0.7
+  },
+  {
+    "State": "New York",
+    "Value": 0.895
+  },
+  {
+    "State": "North Carolina",
+    "Value": 0.5
+  },
+  {
+    "State": "North Dakota",
+    "Value": 0.235
+  },
+  {
+    "State": "Ohio",
+    "Value": 0.5
+  },
+  {
+    "State": "Oklahoma",
+    "Value": 0.133
+  },
+  {
+    "State": "Oregon",
+    "Value": 0.714
+  },
+  {
+    "State": "Pennsylvania",
+    "Value": 0.615
+  },
+  {
+    "State": "Rhode Island",
+    "Value": 0.833
+  },
+  {
+    "State": "South Carolina",
+    "Value": 0.545
+  },
+  {
+    "State": "South Dakota",
+    "Value": 0.4
+  },
+  {
+    "State": "Tennessee",
+    "Value": 0.333
+  },
+  {
+    "State": "Texas",
+    "Value": 0.375
+  },
+  {
+    "State": "Utah",
+    "Value": 0
+  },
+  {
+    "State": "Vermont",
+    "Value": 0.833
+  },
+  {
+    "State": "Virginia",
+    "Value": 0.4
+  },
+  {
+    "State": "Washington",
+    "Value": 0.75
+  },
+  {
+    "State": "West Virginia",
+    "Value": 0.333
+  },
+  {
+    "State": "Wisconsin",
+    "Value": 0.5
+  },
+  {
+    "State": "Wyoming",
+    "Value": 0
+  },
+  {
+    "State": "District of Columbia",
+    "Value": 1
+  }
+]
+}

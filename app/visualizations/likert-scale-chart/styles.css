@@ -1,0 +1,11 @@
+.likert {
+  font: 10px sans-serif;
+  margin-bottom: 50px;
+}
+
+.likert .axis path,
+.likert .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Hierarchical Bar Chart",
+  "description": "This bar chart visualizes hierarchical data using D3. Each blue bar represents a folder, whose length encodes the total size of all files in that folder (and all subfolders). Clicking on a bar dives into that folder, while clicking on the background bubbles back up to the parent folder. The effect is similar to a zoomable partition layout, though in a more conventional display.",
+  "author": "Mike Bostock"
+}

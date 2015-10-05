@@ -1,0 +1,6 @@
+{
+  "name": "Normalized Stacked Bar Chart",
+  "description": "This variation of a stacked bar chart shows percentages rather than absolute numbers.",
+  "author": "Mike Bostock",
+  "sourceUrl": "http://bl.ocks.org/mbostock/3886394"
+}

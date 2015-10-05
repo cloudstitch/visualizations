@@ -1,0 +1,103 @@
+<dom-module id="viz-harness">
+  <style>
+    :host {
+      display: block;
+    }
+    @media (max-width: 600px) {
+      h1.paper-font-display1 {
+        font-size: 24px;
+      }
+    }
+  </style>
+  <template>
+    <iron-ajax
+        id="dataFetcher"
+        url="{{dataUrl}}"
+        auto
+        handle-as="json"
+        on-response="foo"
+        last-result="{{data}}"
+        debounce-duration="300">
+    </iron-ajax> 
+    <iron-ajax
+        id="packageFetcher"
+        url="{{packageUrl}}"
+        auto
+        handle-as="json"
+        on-response="packageLoaded"
+        last-result="{{package}}"
+        debounce-duration="300">
+    </iron-ajax> 
+    <d3-template id="templ" script-url="{{scriptUrl}}" style-url="{{styleUrl}}" template-url="{{templateUrl}}" data="{{data}}"><content></content></d3-template>
+  </template>
+
+  <script>
+    (function() {
+      Polymer({
+        is: 'viz-harness',
+        properties: {
+          name: {
+            type: String,
+            value: '',
+            notify: true
+          },
+
+          scriptUrl: {
+            type: String,
+            computed: 'computeScriptUrl(name)'
+          },
+
+          styleUrl: {
+            type: String,
+            computed: 'computeStyleUrl(name)'
+          },
+
+          templateUrl: {
+            type: String,
+            computed: 'computeTemplateUrl(name)'
+          },
+
+          dataUrl: {
+            type: String,
+            computed: 'computeDataUrl(name)'
+          },
+
+          data: {
+            type: Object
+          },
+
+          package: {
+            type: Object
+          }
+        },
+
+        foo: function() {
+          this.$.templ.data = this.$.dataFetcher.lastResponse;
+          this.$.templ.render();
+        },
+
+        computeTemplateUrl: function(name) {
+          return "/visualizations/" + name + "/widget.html"; 
+        },
+
+        computeScriptUrl: function(name) {
+          return "/visualizations/" + name + "/scripts.js"; 
+        },
+
+        computePackageUrl: function(name) {
+          return "/visualizations/" + name + "/package.json"; 
+        },
+
+        computeStyleUrl: function(name) {
+          return "/visualizations/" + name + "/styles.css"; 
+        },
+
+        computeDataUrl: function(name) {
+          return "/visualizations/" + name + "/data.json"; 
+        }
+
+      });
+    })();
+  </script>
+
+</dom-module>

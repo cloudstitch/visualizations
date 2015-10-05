@@ -1,0 +1,5 @@
+{
+  "name": "Scatterplot",
+  "description": "This scatterplot is constructed from a spreadsheet file storing the dimensions of sepals and petals of various iris flowers.",
+  "author": "Mike Bostock"
+}

@@ -1,0 +1,929 @@
+{"Sheet1":
+[
+  {
+    "Parent": "Africa",
+    "Item": "Eastern Africa",
+    "Value": 0
+  },
+  {
+    "Parent": "Africa",
+    "Item": "Middle Africa",
+    "Value": 0
+  },
+  {
+    "Parent": "Africa",
+    "Item": "Northern Africa",
+    "Value": 0
+  },
+  {
+    "Parent": "Africa",
+    "Item": "Southern Africa",
+    "Value": 0
+  },
+  {
+    "Parent": "Africa",
+    "Item": "Western Africa",
+    "Value": 0
+  },
+  {
+    "Parent": "The Americas",
+    "Item": "Caribbean",
+    "Value": 0
+  },
+  {
+    "Parent": "The Americas",
+    "Item": "Central America",
+    "Value": 0
+  },
+  {
+    "Parent": "The Americas",
+    "Item": "South America",
+    "Value": 0
+  },
+  {
+    "Parent": "The Americas",
+    "Item": "North America",
+    "Value": 0
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Afghanistan",
+    "Value": 20.8
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Angola",
+    "Value": 131.4
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Albania",
+    "Value": 13.4
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "United Arab Emirates",
+    "Value": 401.6
+  },
+  {
+    "Parent": "South America",
+    "Item": "Argentina",
+    "Value": 540.2
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Armenia",
+    "Value": 10.9
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Antigua and Barbuda",
+    "Value": 1.3
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Austria",
+    "Value": 436.3
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Azerbaijan",
+    "Value": 75.2
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Burundi",
+    "Value": 3.1
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Belgium",
+    "Value": 533.4
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Benin",
+    "Value": 8.7
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Burkina Faso",
+    "Value": 12.5
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Bangladesh",
+    "Value": 173.8
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Bulgaria",
+    "Value": 55.7
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Bahrain",
+    "Value": 33.9
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Bahamas",
+    "Value": 8.5
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Bosnia",
+    "Value": 18.3
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Belarus",
+    "Value": 76.1
+  },
+  {
+    "Parent": "South America",
+    "Item": "Bolivia",
+    "Value": 34.2
+  },
+  {
+    "Parent": "South America",
+    "Item": "Brazil",
+    "Value": 2346.1
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Barbados",
+    "Value": 4.3
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Brunei Darussalam",
+    "Value": 17.3
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Bhutan",
+    "Value": 1.8
+  },
+  {
+    "Parent": "Southern Africa",
+    "Item": "Botswana",
+    "Value": 15.8
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Central African Republic",
+    "Value": 1.8
+  },
+  {
+    "Parent": "North America",
+    "Item": "Canada",
+    "Value": 1786.7
+  },
+  {
+    "Parent": "South America",
+    "Item": "Chile",
+    "Value": 258.1
+  },
+  {
+    "Parent": "Asia",
+    "Item": "China",
+    "Value": 10360.1
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Cote d'Ivoire",
+    "Value": 34.3
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Cameroon",
+    "Value": 32.5
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Congo, Rep.",
+    "Value": 14.1
+  },
+  {
+    "Parent": "South America",
+    "Item": "Colombia",
+    "Value": 377.7
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Comoros",
+    "Value": 0.6
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Costa Rica",
+    "Value": 49.6
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Cyprus",
+    "Value": 23.2
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Czech Republic",
+    "Value": 205.5
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Germany",
+    "Value": 3852.6
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Djibouti",
+    "Value": 1.6
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Dominica",
+    "Value": 0.5
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Denmark",
+    "Value": 342
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Dominican Republic",
+    "Value": 64
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "Algeria",
+    "Value": 214.1
+  },
+  {
+    "Parent": "South America",
+    "Item": "Ecuador",
+    "Value": 100.5
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "Egypt",
+    "Value": 286.5
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Eritrea",
+    "Value": 3.9
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Spain",
+    "Value": 1404.3
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Estonia",
+    "Value": 25.9
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Ethiopia",
+    "Value": 54.8
+  },
+  {
+    "Parent": "Europe",
+    "Item": "European Union",
+    "Value": 18460.6
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Finland",
+    "Value": 270.7
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Fiji",
+    "Value": 4
+  },
+  {
+    "Parent": "European Union",
+    "Item": "France",
+    "Value": 2829.2
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Gabon",
+    "Value": 17.2
+  },
+  {
+    "Parent": "European Union",
+    "Item": "United Kingdom",
+    "Value": 2941.9
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Georgia",
+    "Value": 16.5
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Ghana",
+    "Value": 38.6
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Guinea",
+    "Value": 6.6
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Gambia",
+    "Value": 0.8
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Guinea-Bissau",
+    "Value": 1
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Equatorial Guinea",
+    "Value": 14.3
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Greece",
+    "Value": 237.6
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Grenada",
+    "Value": 0.9
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Guatemala",
+    "Value": 58.7
+  },
+  {
+    "Parent": "South America",
+    "Item": "Guyana",
+    "Value": 3.2
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Hong Kong",
+    "Value": 290.9
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Honduras",
+    "Value": 19.4
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Croatia",
+    "Value": 57.2
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Haiti",
+    "Value": 8.7
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Hungary",
+    "Value": 137.1
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Indonesia",
+    "Value": 888.5
+  },
+  {
+    "Parent": "Asia",
+    "Item": "India",
+    "Value": 2066.9
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Ireland",
+    "Value": 245.9
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Iran",
+    "Value": 415.3
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Iraq",
+    "Value": 220.5
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Iceland",
+    "Value": 17.1
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Israel",
+    "Value": 304.2
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Italy",
+    "Value": 2144.3
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Jordan",
+    "Value": 35.8
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Japan",
+    "Value": 4601.5
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Kazakhstan",
+    "Value": 212.2
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Kenya",
+    "Value": 60.9
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Kyrgyzstan",
+    "Value": 7.4
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Cambodia",
+    "Value": 16.7
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Kiribati",
+    "Value": 0.2
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "St. Kitts and Nevis",
+    "Value": 0.8
+  },
+  {
+    "Parent": "Asia",
+    "Item": "South Korea",
+    "Value": 1410.4
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Kosovo",
+    "Value": 7.3
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Kuwait",
+    "Value": 0
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Laos",
+    "Value": 11.8
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Lebanon",
+    "Value": 45.7
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Liberia",
+    "Value": 2
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "Libya",
+    "Value": 41.1
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Saint Lucia",
+    "Value": 1.4
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Liechtenstein",
+    "Value": 0
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Sri Lanka",
+    "Value": 74.9
+  },
+  {
+    "Parent": "Southern Africa",
+    "Item": "Lesotho",
+    "Value": 2.1
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Lithuania",
+    "Value": 48.2
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Latvia",
+    "Value": 31.9
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Moldova",
+    "Value": 7.9
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Madagascar",
+    "Value": 10.6
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Maldives",
+    "Value": 3
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Mexico",
+    "Value": 1282.7
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Macedonia",
+    "Value": 11.3
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Mali",
+    "Value": 12.1
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Myanmar",
+    "Value": 64.3
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Montenegro",
+    "Value": 4.6
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Mongolia",
+    "Value": 12
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Mozambique",
+    "Value": 16.4
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Mauritania",
+    "Value": 5.1
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Mauritius",
+    "Value": 12.6
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Malawi",
+    "Value": 4.3
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Malaysia",
+    "Value": 326.9
+  },
+  {
+    "Parent": "Southern Africa",
+    "Item": "Namibia",
+    "Value": 13.4
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Niger",
+    "Value": 8.2
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Nigeria",
+    "Value": 568.5
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Nicaragua",
+    "Value": 11.8
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Netherlands",
+    "Value": 869.5
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Norway",
+    "Value": 500.1
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Nepal",
+    "Value": 19.6
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Oman",
+    "Value": 81.8
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Pakistan",
+    "Value": 246.9
+  },
+  {
+    "Parent": "Central America",
+    "Item": "Panama",
+    "Value": 46.2
+  },
+  {
+    "Parent": "South America",
+    "Item": "Peru",
+    "Value": 202.9
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Philippines",
+    "Value": 284.6
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Poland",
+    "Value": 548
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Portugal",
+    "Value": 229.6
+  },
+  {
+    "Parent": "South America",
+    "Item": "Paraguay",
+    "Value": 31
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Qatar",
+    "Value": 211.8
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Romania",
+    "Value": 199
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Russia",
+    "Value": 1860.6
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Rwanda",
+    "Value": 7.9
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Saudi Arabia",
+    "Value": 746.2
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "Sudan",
+    "Value": 73.8
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Senegal",
+    "Value": 15.6
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Singapore",
+    "Value": 307.9
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Solomon, Islands",
+    "Value": 1.2
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Sierra Leone",
+    "Value": 4.9
+  },
+  {
+    "Parent": "Central America",
+    "Item": "El Salvador",
+    "Value": 25.2
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Serbia",
+    "Value": 43.9
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "South Sudan",
+    "Value": 13.1
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Sao Tome and Principe",
+    "Value": 0.3
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Slovakia",
+    "Value": 99.8
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Slovenia",
+    "Value": 49.4
+  },
+  {
+    "Parent": "European Union",
+    "Item": "Sweden",
+    "Value": 570.6
+  },
+  {
+    "Parent": "Southern Africa",
+    "Item": "Swaziland",
+    "Value": 3.4
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Seychelles",
+    "Value": 1.4
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Chad",
+    "Value": 13.9
+  },
+  {
+    "Parent": "Western Africa",
+    "Item": "Togo",
+    "Value": 4.5
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Thailand",
+    "Value": 373.8
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Tajikistan",
+    "Value": 9.2
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Turkmenistan",
+    "Value": 47.9
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Timor Leste (West)",
+    "Value": 1.6
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Tonga",
+    "Value": 0.4
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Trinidad and Tobago",
+    "Value": 0
+  },
+  {
+    "Parent": "Northern Africa",
+    "Item": "Tunisia",
+    "Value": 0
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Turkey",
+    "Value": 799.5
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Taiwan",
+    "Value": 546
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Tanzania, United Republic of",
+    "Value": 49.2
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Uganda",
+    "Value": 26.3
+  },
+  {
+    "Parent": "Europe",
+    "Item": "Ukraine",
+    "Value": 131.8
+  },
+  {
+    "Parent": "South America",
+    "Item": "Uruguay",
+    "Value": 57.5
+  },
+  {
+    "Parent": "North America",
+    "Item": "United States",
+    "Value": 17419
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Uzbekistan",
+    "Value": 62.6
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Saint Vincent and the Grenadines",
+    "Value": 0.7
+  },
+  {
+    "Parent": "South America",
+    "Item": "Venezuela",
+    "Value": 510
+  },
+  {
+    "Parent": "Caribbean",
+    "Item": "Virgin Islands (U.S.)",
+    "Value": 0
+  },
+  {
+    "Parent": "Asia",
+    "Item": "Vietnam",
+    "Value": 186.2
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Vanuatu",
+    "Value": 0
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "West Bank and Gaza",
+    "Value": 12.7
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Samoa",
+    "Value": 0.8
+  },
+  {
+    "Parent": "Middle East",
+    "Item": "Yemen",
+    "Value": 0
+  },
+  {
+    "Parent": "Southern Africa",
+    "Item": "South Africa",
+    "Value": 349.8
+  },
+  {
+    "Parent": "Middle Africa",
+    "Item": "Congo, Democratic Republic of the",
+    "Value": 33
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Zambia",
+    "Value": 27.1
+  },
+  {
+    "Parent": "Eastern Africa",
+    "Item": "Zimbabwe",
+    "Value": 13.7
+  }
+]
+}

@@ -1,0 +1,18 @@
+.gbc {
+  font: 10px sans-serif;
+}
+
+.gbc .axis path,
+.gbc .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.gbc .bar {
+  fill: steelblue;
+}
+
+.gbc .x.axis path {
+  display: none;
+}

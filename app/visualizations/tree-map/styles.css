@@ -1,0 +1,13 @@
+.ztm .chart {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.ztm text {
+  font-size: 11px;
+}
+
+.ztm rect {
+  fill: none;
+}

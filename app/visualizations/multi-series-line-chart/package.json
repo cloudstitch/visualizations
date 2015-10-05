@@ -1,0 +1,5 @@
+{
+  "name": "Hierarchical Bar Chart",
+  "description": "This line chart is constructed from data of daily average temperatures of New York, San Francisco and Austin over the last year.",
+  "author": "Mike Bostock"
+}

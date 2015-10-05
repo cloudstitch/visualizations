@@ -1,0 +1,24 @@
+
+.nsbc {
+  font: 10px sans-serif;
+}
+
+.nsbc .axis path,
+.nsbc .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.nsbc .bar {
+  fill: steelblue;
+}
+
+.nsbc .x.axis path {
+  display: none;
+}
+
+.nsbc .legend line {
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
